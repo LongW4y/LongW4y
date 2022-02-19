@@ -18,5 +18,7 @@ I am a:
 ## Where you can contanct me:
 
 🐦 [Twitter](https://twitter.com/longw4y)
+
 🤝 [LinkedIn](https://www.linkedin.com/in/cezary-stanis%C5%82awski-29b5781b5)
+
 📪 [Mail](cezsta99@gmail.com)
