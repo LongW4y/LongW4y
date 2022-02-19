@@ -9,5 +9,6 @@ I am a:
 - Python programmer 🐍,
 - Bachelor of Engineering in Automatic Control in Robotics, majoring in robotics,
 
-My social media:
-🐦 [Twitter](https://twitter.com/longw4y)
+## Where you can contanct me:
+
+![Twitter](small-twitter-icon-9.jpg 'Twitter')
